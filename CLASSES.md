@@ -1,4 +1,4 @@
-#MCMG TALKS AND CLASSES
+# MCMG TALKS AND CLASSES
 
 **Mendocino Coast Makers** Guild seeks to educate the public via informal, member originated courses.
 
@@ -7,7 +7,7 @@
 ---
 
  
-##'Intro to' Talks
+## 'Intro to' Talks
 An overview of topics important to makers.
 
 ---
@@ -54,7 +54,7 @@ Free
 ---
 
 
-##CAD Classes
+## CAD Classes
 
 CAD programs are used to design so many of the items we use every day. Learn about this important technology.
 
@@ -100,7 +100,7 @@ $15 Public/Free for MCMG members
 ---
 
 
-##3D Printer Classes
+## 3D Printer Classes
 
 __Calibrate and Operate a 3D printer__
 3D printers can now print a building, a pizza, dental components and more! Learn how to level the bed, adjusting Z limit, heating, homing, and loading a file and printing.
@@ -110,7 +110,7 @@ $10 Public/Free for MCMG members
 ---
 ---
 
-##Microcontroller Classes
+## Microcontroller Classes
 
 __Arduino for Beginners__
 Arduino is one of the most popular micro controllers on the market today. It's one of the key technologies responsible for the maker movement. We'll cover some Arduino basics and some simple projects. Bring your own Arduino so that you can follow along in class. We use [this kit](https://www.amazon.com/gp/product/B01MA398MH) for reference.
