@@ -3,7 +3,7 @@ Welcome to
 We are a volunteer-run nonprofit organization of makers and crafters who encourage learning, creativity, collaboration and skill sharing. We are organized around a shared workspace.
 
 
-- MCMG Calendar: [Facebook Group](https://www.facebook.com/groups/394626551425621/events/?filter=calendar)  -OR-  [Google Calendar - no account required](http://htmlpreview.github.io/?https://github.com/mendomakers/mendomakers.github.io/blob/master/CALENDAR.html)
+- MCMG Calendar: [Facebook Group](https://www.facebook.com/groups/394626551425621/events/?filter=calendar) -or- [Web Calendar](http://htmlpreview.github.io/?https://github.com/mendomakers/mendomakers.github.io/blob/master/CALENDAR.html)
 - [MCMG Facebook page](https://www.facebook.com/Mendocino-Coast-Makers-Guild-100100731428057)
 - [MCMG's YouTube channel](https://www.youtube.com/channel/UCR2WBOEnOzH0CxvDgR8FFLA)
 - [MCMG's Class List](CLASSES.md)
